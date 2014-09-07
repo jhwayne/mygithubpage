@@ -7,7 +7,6 @@ a{
 	margin-right: 30%;
 }
 .logo {
-	margin-bottom: 5px;
 
 	height:80%;
 	display:block;
@@ -15,8 +14,19 @@ a{
 }
 
 .logo:hover {
-	margin-bottom: 5px;
 	height:80%;
 	display:block;
 	background-image: url('logohover.png');
+}
+
+.screenshot{
+	display:block;
+	background-image: url('screen1.png') center top no-repeat;
+	margin-left: 22%;
+}
+
+.screenshot2{
+	display:block;
+	background-image: url('screen2.png') center top no-repeat;
+	margin-left: 22%;
 }
