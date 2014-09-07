@@ -1,0 +1,19 @@
+body{
+	background-color: #FFFFEE;
+}
+
+
+.logo {
+	margin-bottom: 10px;
+
+	height:80%;
+	display:block;
+	background: url('logo.png') center top no-repeat;
+}
+
+.logo:hover {
+	margin-bottom: 10px;
+	height:60%;
+	display:block;
+	background-image: url('logohover.png');
+}
