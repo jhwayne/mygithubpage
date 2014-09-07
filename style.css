@@ -2,9 +2,12 @@ body{
 	background-color: #FFFFEE;
 }
 
-
+a{
+	margin-left: 30%;
+	margin-right: 30%;
+}
 .logo {
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 
 	height:80%;
 	display:block;
@@ -12,8 +15,8 @@ body{
 }
 
 .logo:hover {
-	margin-bottom: 10px;
-	height:60%;
+	margin-bottom: 5px;
+	height:80%;
 	display:block;
 	background-image: url('logohover.png');
 }
